@@ -8,3 +8,4 @@ Løste Opgaver:
 
 - Opgave 5
 - Opgave 6
+- Opgave 8 
